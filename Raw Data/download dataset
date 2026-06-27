@@ -1,0 +1,9 @@
+# Dataset
+
+The dataset is not included in this repository because of GitHub file size limitations.
+
+You can download the dataset from Kaggle:
+
+https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
+
+After downloading, place the CSV file inside the `data/` folder.
