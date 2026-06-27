@@ -4,6 +4,7 @@ An end-to-end **Supply Chain Analytics** project built using **Python, SQL, and 
 
 The project transforms raw transactional data into actionable business insights through data cleaning, exploratory data analysis, SQL-based business queries, and interactive dashboards.
 
+`report and Dashboard/page1.png`
 ---
 
 # 📌 Project Overview
@@ -307,9 +308,7 @@ Supply-Chain-Analytics/
 │
 │   ├── Dashboard.pbix
 │   ├── Report.pdf
-│
-│
-├── images/
+│   └── images.png
 │
 ├── README.md
 │
@@ -324,15 +323,15 @@ Supply-Chain-Analytics/
 
 ### Executive Overview
 
-`images/executive_overview.png`
+`report and Dashboard/page1.png`
 
 ### Sales & Customer Analytics
 
-`images/sales_customer_analytics.png`
+`report and Dashboard/page2.png`
 
 ### Logistics & Delivery Performance
 
-`images/logistics_dashboard.png`
+`report and Dashboard/page3.png`
 
 ---
 
