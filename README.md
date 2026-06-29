@@ -1,4 +1,4 @@
-# 📦 DosCo Supply Chain Analytics & Inventory Optimization Dashboard
+# 📦 DataCo Supply Chain Analytics & Inventory Optimization Dashboard
 
 An end-to-end **Supply Chain Analytics** project built using **Python, SQL, and Power BI** to analyze sales performance, customer behavior, inventory trends, and logistics efficiency.
 
